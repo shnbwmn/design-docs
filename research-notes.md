@@ -9,8 +9,10 @@
 
 ### Social Media Management
 
+* [https://tech.co/digital-marketing/social-media-management-guide](https://tech.co/digital-marketing/social-media-management-guide)
+* [https://www.lyfemarketing.com/blog/what-is-social-media-management/](https://www.lyfemarketing.com/blog/what-is-social-media-management/)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY0NTY2MTE2XX0=
+eyJoaXN0b3J5IjpbNzYzNjAwODksMzY0NTY2MTE2XX0=
 -->
