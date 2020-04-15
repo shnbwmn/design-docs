@@ -15,9 +15,15 @@
 
 ### Design Process
 
+* [https://filestage.io/blog/graphic-design-process/](https://filestage.io/blog/graphic-design-process/)
+* [https://concept9.ca/the-graphic-design-process-in-5-steps/](https://concept9.ca/the-graphic-design-process-in-5-steps/)
+
+### Creative Brief
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYzNjAwODksMzY0NTY2MTE2XX0=
+eyJoaXN0b3J5IjpbLTExNDk2MjY5NTksNzYzNjAwODksMzY0NT
+Y2MTE2XX0=
 -->
