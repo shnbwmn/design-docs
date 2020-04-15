@@ -17,13 +17,16 @@
 
 * [https://filestage.io/blog/graphic-design-process/](https://filestage.io/blog/graphic-design-process/)
 * [https://concept9.ca/the-graphic-design-process-in-5-steps/](https://concept9.ca/the-graphic-design-process-in-5-steps/)
+* [https://www.shutterstock.com/blog/guide-graphic-design-process](https://www.shutterstock.com/blog/guide-graphic-design-process)
 
 ### Creative Brief
 
-
+* [https://kandi.co.za/how-to-write-a-brief/](https://kandi.co.za/how-to-write-a-brief/)
+* [https://filestage.io/blog/creative-brief-checklist/](https://filestage.io/blog/creative-brief-checklist/)
+* [https://www.webdesignerdepot.com/2011/03/7-basics-to-create-a-good-design-brief/](https://www.webdesignerdepot.com/2011/03/7-basics-to-create-a-good-design-brief/)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDk2MjY5NTksNzYzNjAwODksMzY0NT
+eyJoaXN0b3J5IjpbLTE2NDA4ODAzNTEsNzYzNjAwODksMzY0NT
 Y2MTE2XX0=
 -->
