@@ -169,13 +169,18 @@
 > Think about future requirements and flexibility of your brand.   
 > Come up with ideas that connect naturally to your main project.   
 
-> Brainstorm ideas on a large circle, divided into segments for each new area of exploration.   
-> Slot new ideas into the appropriate segment.
-
-* Stay true to brand persoanlity.
+* Stay true to brand personality.
 * Don't change too many brand elements.
 * Keep verbal and visual brand in mind.
 * Don't create new logos unless necessary, eg new product line.
+
+> Brainstorm ideas on a large circle, divided into segments for each new area of exploration.   
+> Slot new ideas into the appropriate segment.
+
+* New Services
+* New Audiences
+* New Partnerships
+* New Events, etc
 
 ### Verbal Brand
 
