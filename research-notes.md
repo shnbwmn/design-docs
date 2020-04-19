@@ -6,6 +6,8 @@
 ### Tone of voice
 
 * [https://www.nngroup.com/articles/tone-of-voice-dimensions/](https://www.nngroup.com/articles/tone-of-voice-dimensions/)
+* [https://www.distilled.net/tone-of-voice/](https://www.distilled.net/tone-of-voice/)
+* [https://www.davechaffey.com/digital-marketing-glossary/brand-tone-of-voice/](https://www.davechaffey.com/digital-marketing-glossary/brand-tone-of-voice/)
 
 ### Social Media Management
 
