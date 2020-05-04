@@ -180,7 +180,13 @@
 * New Services
 * New Audiences
 * New Partnerships
-* New Events, etc
+* New Events, etc> Brainstorm ideas on a large circle, divided into segments for each new area of exploration.   
+> Slot new ideas into the appropriate segment.
+
+* Stay true to brand persoanlity.
+* Don't change too many brand elements.
+* Keep verbal and visual brand in mind.
+* Don't create new logos unless necessary, eg new product line.
 
 ### Verbal Brand
 
@@ -241,3 +247,6 @@
 > Planning stage is over.
 > Focus turns to promotion, publicity and creating new materials to keep up interest.
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbODY5MTEzODJdfQ==
+-->
